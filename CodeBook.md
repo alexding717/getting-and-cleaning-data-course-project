@@ -2,7 +2,7 @@ This document provides the description for the variables in the raw data set and
 
 ## Variables in the raw data set 
 
-1. The variables included in the raw data set could be categorized into three groups:
+The variables included in the raw data set could be categorized into three groups:
 
 * 1) A 561-feature vector with time and frequency domain variables. Their detailed descriptions are listed in the end of this document. 
 
@@ -17,7 +17,7 @@ This document provides the description for the variables in the raw data set and
 * 3) An identifier of the subject who carried out the experiment. Range from 1 to 30.
 
 
-2. Units of the variables
+Units of the variables
 
 * 1) Features are normalized and bounded within [-1,1]. 
 
