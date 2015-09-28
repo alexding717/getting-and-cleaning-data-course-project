@@ -17,7 +17,7 @@ The variables included in the raw data set could be categorized into three group
 * 3) An identifier of the subject who carried out the experiment. Range from 1 to 30.
 
 
-Unit of the variables
+Unit of the variables:
 
 * 1) Features are normalized and bounded within [-1,1]. 
 
