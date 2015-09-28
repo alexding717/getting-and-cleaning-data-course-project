@@ -17,7 +17,7 @@ The variables included in the raw data set could be categorized into three group
 * 3) An identifier of the subject who carried out the experiment. Range from 1 to 30.
 
 
-Units of the variables
+Unit of the variables
 
 * 1) Features are normalized and bounded within [-1,1]. 
 
@@ -25,7 +25,7 @@ Units of the variables
 
 ## Variables in the tidy data set 
 
-* Among all the features, only the variables that measure the mean and standard deviation for each measurement are extracted.which are the variables with labels: mean(): or std():
+* Among all the features, only the variables that measure the mean and standard deviation for each measurement are extracted. They are the variables with labels: mean(): or std():
 
 
 * The tidy data set contains the average of each variable for each activity and each subject.
